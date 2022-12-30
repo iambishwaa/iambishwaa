@@ -10,10 +10,14 @@
 - 📫 How to reach me: 
   * [Bishwa](https://www.bishwaadhikari.com.np)
   * [Facebook](https://www.facebook.com/bishwadesigns)
- 
+
+
+# Design Stack:
+<img src="https://skillicons.dev/icons?i=figma,ai,ps">
+
 <div style="display: flex; align-items: center;">
 <img width = 45% src="https://github-readme-stats.vercel.app/api?username=iambishwaa&show_icons=true&count_private=true&hide_title=false&theme=dracula">
-<img width = 45% src="https://github-readme-streak-stats.herokuapp.com?user=iambishwaa&theme=buefy-dark">
+<img width = 45% src="https://github-readme-streak-stats.herokuapp.com?user=iambishwaa&theme=buefy-dark"></br>
 </div>
 
 
