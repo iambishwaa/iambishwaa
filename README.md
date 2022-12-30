@@ -13,7 +13,7 @@
 
 
 # Design Stack:
-<img src="https://skillicons.dev/icons?i=figma,ai,ps">
+<img src="https://skillicons.dev/icons?i=ps,ai,figma">  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>
 
 <div style="display: flex; align-items: center;">
 <img width = 45% src="https://github-readme-stats.vercel.app/api?username=iambishwaa&show_icons=true&count_private=true&hide_title=false&theme=dracula">
