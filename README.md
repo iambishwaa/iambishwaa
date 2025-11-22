@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I+am+Bishwaa Adhikarii"></br>
+<img src ="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I+am+Bishwaa+Adhikarii"></br>
 <img src="https://hits.dwyl.com/iambishwaa/iambishwaa.svg?style=flat-square">
 </p>
 
